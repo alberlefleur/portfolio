@@ -1,0 +1,60 @@
+.home {
+  height: 70vh;
+  background-color: #315A81;
+}
+
+.home-body {
+  height: 100%;
+  max-width: 620px;
+}
+
+.text {
+  font-size: 48px;
+  color: #fbfcf4;
+
+}
+
+.text-white {
+  color: #fbfcf4;
+  font-size: 32px;
+
+
+
+}
+
+.navbar {
+  height: 100px;
+  width: 100%;
+  background-color: #315A81;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.navbar > div {
+  width: 100%;
+  padding: 0 20px;
+}
+
+.home-header a {
+  padding: 0 20px;
+  font-size: 20px;
+
+
+}
+
+.navbar a {
+ color: #fbfcf4;
+}
+
+.bg-home-1 {
+  background-image: url("../img/rectangle.svg");
+  background-position: center;
+  width: 100vw;
+  height: 48vh;
+  z-index: -1;
+  margin-top: -2;
+}
+.container-2 {
+  background-color: #fbfcf4;
+}
